@@ -50,3 +50,15 @@ To get started with Hands.link, follow these steps:
     ```
     npx expo start
     ```
+
+## About the Hackathon
+
+![Alt text](image.png)
+
+Unleash your creativity at the Digital Identity Hackathon - an intense 4-week innovation sprint, challenging technophiles to reinvent the future of online identity security and privacy!
+
+Start date: 12th September 2023
+
+Submission date: 8th October 2023
+
+Finale and Prizegiving: 24th October
